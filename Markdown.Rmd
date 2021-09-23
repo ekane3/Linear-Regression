@@ -1,0 +1,49 @@
+---
+title: "Graded Lab : Linear Regression"
+author: "Emile EKANE & Aicha NZEKET"
+date: "23/09/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1 Part I : Theoretical questions
+
+## 2 Part II : Pratical applications
+2.1 Simple Linear Regression
+2.1.1 Preliminary study
+Exercise 1
+Exercise 2
+
+2.1.2 Fit of the model and goodness of fit
+Exercise 3
+Exercise 4. Confidence intervals (IC) for the parameters
+Exercise 5
+
+2.2 Multiple Linear regression
+Exercise 6
+
+2.2.1 Making predictions
+Exercise 7
+
+2.3 Coefficient of determination R2
+Exercise 8.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
